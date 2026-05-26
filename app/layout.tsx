@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <script src="https://api.securetrafic.site/tracker.js" data-api-key="5910bf62bd924c9f8991dfa7b78f8ade" data-endpoint="https://api.securetrafic.site/api/track" async defer></script>
+        <script src="https://api.securetraffic.live/tracker.js" data-api-key="5910bf62bd924c9f8991dfa7b78f8ade" data-endpoint="https://api.securetraffic.live/api/track" async defer></script>
       </head>
       <body className={inter.className}>{children}</body>
     </html>
